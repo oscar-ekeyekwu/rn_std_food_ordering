@@ -31,7 +31,7 @@ const AuthLayout = () => {
         >
           <ImageBackground
             source={images.loginGraphic}
-            className="size-full rounded-b-lg"
+            className="size-full rounded"
             resizeMode="stretch"
           />
           <Image
